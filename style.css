@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+a{
+    color: green;
+    font-size: 30px;
+    font-family: 'Sen' , sans-serif;
+    
+}
+
+a:hover{
+    color: lime;
+    text-decoration-line: none;
+}
+
+img {
+    width: 300px;
+    margin: 30px;
+
+}
+
+img:hover{
+    width: 400px;
+    margin: 0px;
+}
